@@ -50,7 +50,13 @@
 <br/>
 
 <div align="center">
-    <img width="390" src="https://streak-stats.demolab.com?user=joshuasetian&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+
+<img width="390" src="https://streak-stats.demolab.com?user=joshuasetian&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=joshuasetian&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasetian&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+
 </div>
 
 <br/><br/>
